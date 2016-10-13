@@ -1,0 +1,11 @@
+{
+  "name": "node-slack-gmail",
+  "version": "1.0.0",
+  "description": "Send and recieve gmail through slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c10ckw0rk",
+  "license": "ISC"
+}
